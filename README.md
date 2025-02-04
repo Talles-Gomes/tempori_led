@@ -1,0 +1,1 @@
+Esta é uma simulação de um semáforo utilizando temporização de hardware. Os leds acendem sozinhos alternando entre si a cada 3 segundos. Eles notificam a mudança do sinal enquanto recomendam olhar para os lados repetidamente a cada 1 segundo.
